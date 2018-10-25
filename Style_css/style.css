@@ -1,4 +1,26 @@
-li{
-    color: red; 
 
+
+.nav-link{
+    color: whitesmoke
+}
+.nav-item .active {
+    color: silver
+}
+.navbar-brand{
+    color: whitesmoke
+}
+.jumbotron {
+    background-color: rgb(41, 60, 80)
+}
+h1{
+    color:whitesmoke
+}
+main{
+    background-color:white
+}
+body{
+    background-color:rgb(70, 75, 80)
+}
+footer{
+    color:whitesmoke
 }
